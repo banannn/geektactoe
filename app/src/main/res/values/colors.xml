@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="input_hint_color">#343434</color>
+    <color name="console_text_color">#00ff00</color>
+
+</resources>

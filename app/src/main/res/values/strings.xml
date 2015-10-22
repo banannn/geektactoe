@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeekTacToe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_hint">Type your command...</string>
+    <string name="hint">Type help to see available options.</string>
+</resources>
